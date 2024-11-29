@@ -1,3 +1,4 @@
+#Homework
 # Dimensional Data Modeling - Week 1
 
 This week's assignment involves working with the `actor_films` dataset. Your task is to construct a series of SQL queries and table definitions that will allow us to model the actor_films dataset in a way that facilitates efficient analysis. This involves creating new tables, defining data types, and writing queries to populate these tables with data from the actor_films dataset
