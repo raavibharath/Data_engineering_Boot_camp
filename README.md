@@ -72,6 +72,8 @@ Construct the following eight queries:
   - day-by-day
 
 Please add these queries into a folder, zip them up and submit [here](https://bootcamp.techcreator.io)
+
+week 3
 Spark Fundamentals Week
 match_details
 a row for every players performance in a match
